@@ -1,0 +1,39 @@
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\bin\Release\files\shaders\fshader1.glsl
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\bin\Release\files\shaders\vshader1.glsl
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\bin\Release\Labo0.exe
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\bin\Release\Labo0.pdb
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\bin\Release\OpenTK.dll
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\bin\Release\OpenTK.GLControl.dll
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\bin\Release\OpenTK.xml
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\bin\Release\OpenTK.GLControl.xml
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\obj\x86\Release\ResolveAssemblyReference.cache
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\obj\x86\Release\Labo0.MainWindow.resources
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\obj\x86\Release\Labo0.Properties.Resources.resources
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\obj\x86\Release\GenerateResource.read.1.tlog
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\obj\x86\Release\GenerateResource.write.1.tlog
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\obj\x86\Release\Labo0.exe
+V:\Users\df\Documents\Visual Studio 2010\Projects\Labo0\Labo0\obj\x86\Release\Labo0.pdb
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Release\files\shaders\fshader1.glsl
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Release\files\shaders\vshader1.glsl
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Release\Labo0.exe
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Release\Labo0.pdb
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Release\OpenTK.dll
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Release\OpenTK.GLControl.dll
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Release\OpenTK.xml
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\bin\Release\OpenTK.GLControl.xml
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\obj\x86\Release\ResolveAssemblyReference.cache
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\obj\x86\Release\CGUNS.GLControl3.resources
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\obj\x86\Release\Labo0.MainWindow.resources
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\obj\x86\Release\Labo0.Properties.Resources.resources
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\obj\x86\Release\GenerateResource.read.1.tlog
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\obj\x86\Release\GenerateResource.write.1.tlog
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\obj\x86\Release\Labo0.exe
+C:\sak\CG2016\LABORATORIOS\Lab0f\Labo0\Labo0\obj\x86\Release\Labo0.pdb
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\obj\x86\Release\ResolveAssemblyReference.cache
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\obj\x86\Release\CGUNS.GLControl3.resources
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\obj\x86\Release\Labo0.MainWindow.resources
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\obj\x86\Release\Labo0.Properties.Resources.resources
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\obj\x86\Release\GenerateResource.read.1.tlog
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\obj\x86\Release\GenerateResource.write.1.tlog
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\obj\x86\Release\Labo0.exe
+C:\sak\CG2016\LABORATORIOS\Lab0d\Labo0\Labo0\obj\x86\Release\Labo0.pdb

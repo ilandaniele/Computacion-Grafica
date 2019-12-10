@@ -1,0 +1,134 @@
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\California\black copia.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\California\carbonFiber.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\California\glass0.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\California\grille1.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\California\grille2.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\California\lights.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\California\nodamage.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\California\tireA0.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\California\undercar.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\California\undercarriage.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\California\wheel copia.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\California\wheel.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Ciudad\edificio_1.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Ciudad\edificio_2.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Ciudad\edificio_3.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Ciudad\edificio_4.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Ciudad\edificio_5.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\DODGE CHARGER\BOTTOM.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\DODGE CHARGER\BRAKDISC.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\DODGE CHARGER\CHARGER69 BADGING MASK.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\DODGE CHARGER\CHARGER69 BADGING NORMAL.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\DODGE CHARGER\CHARGER69 BADGING.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\DODGE CHARGER\CHARGER69 BRAKELIGHT.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\DODGE CHARGER\CHARGER69 INTERIOR.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\DODGE CHARGER\CHARGER69 MISC.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\DODGE CHARGER\CHARGER69 RIM.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\DODGE CHARGER\CHARGER69 RIM1.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\DODGE CHARGER\DOORLINE MASK.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\DODGE CHARGER\DOORLINE.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\DODGE CHARGER\DRIVER.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\DODGE CHARGER\ENGINE.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\DODGE CHARGER\LICENSE MASK.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\DODGE CHARGER\LICENSE.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\DODGE CHARGER\TIRE BUMP.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\DODGE CHARGER\TIRE.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\DODGE CHARGER\TIREBACK.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Mustang\mustang_skin.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Mustang\mustang_skin1.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Mustang\mustang_tyre.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Palmera\palmleafs.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Palmera\palm_bark.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Palmera\palm_bark_norm.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Pista\normalMap.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Pista\terreno.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Senial\30-Sign.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Senial\SeamlessMetal.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Skybox\SKY_01.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Skybox\SKY_01.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\cielo.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\CubeMap\interior\negx.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\CubeMap\interior\negy.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\CubeMap\interior\negz.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\CubeMap\interior\posx.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\CubeMap\interior\posy.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\CubeMap\interior\posz.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\dragonfuego.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\madera.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\NormalMap\rugoso.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\NormalMap\chapa.png
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\NormalMap\escama.gif
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\NormalMap\gravilla_n.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\NormalMap\ladrillo.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\NormalMap\normalmap.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\SkyBox.jpg
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\Sonido\aceleracionFinal.mp3
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\Sonido\aceleracionInicial.mp3
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\Sonido\colision1.mp3
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\Sonido\colision2.mp3
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\Sonido\colision3.mp3
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\Sonido\colision4.mp3
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\Sonido\grito.mp3
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\Sonido\metal.wav
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\Sonido\Michels.mp3
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\Sonido\Reproductor\animals.mp3
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\Sonido\Reproductor\green.mp3
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\Sonido\Reproductor\linkin.mp3
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\Sonido\Reproductor\sad.mp3
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\Sonido\sirena.mp3
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\avionJuguete.obj
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\California\california.mtl
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\California\california.obj
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\cielo.obj
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Ciudad\ciudad.mtl
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Ciudad\ciudad.obj
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\cubo.obj
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\DODGE CHARGER\CHARGER69.mtl
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\DODGE CHARGER\CHARGER69.obj
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\esferainterna.obj
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\mesa.obj
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\micilindro.obj
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Mustang\mustang.mtl
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Mustang\mustang.obj
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Palmera\palmeras.mtl
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Palmera\palmeras.obj
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Pista\pista.mtl
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Pista\pista.obj
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Pista\techo.obj
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\planoGrande.obj
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\PosteLuz\PosteLuz.mtl
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\PosteLuz\PosteLuz.obj
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Senial\SenialLimiteVelocidad.mtl
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Senial\SenialLimiteVelocidad.obj
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Skybox\SkySphere.mtl
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\Skybox\SkySphere.obj
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\uh60.obj
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CGUNS\ModelosOBJ\untitled.obj
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\shaders\fshader1.glsl
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\shaders\fshaderOrenNayar.glsl
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\shaders\fshaderPhong.glsl
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\shaders\fshaderPhongSL.glsl
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\shaders\fShadow.glsl
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\shaders\fViewport.glsl
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\shaders\vshader1.glsl
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\shaders\vshaderOrenNayar.glsl
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\shaders\vshaderPhong.glsl
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\shaders\vShadow.glsl
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\files\shaders\vViewport.glsl
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\Labo0.exe
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\Labo0.pdb
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\BulletSharp.dll
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\CSCore.dll
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\irrKlang.NET4.dll
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\OpenTK.dll
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\OpenTK.xml
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\obj\x86\Debug\Need for Graphics.csprojResolveAssemblyReference.cache
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\obj\x86\Debug\CGUNS.GLControl3.resources
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\obj\x86\Debug\Labo0.MainWindow.resources
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\obj\x86\Debug\Labo0.Properties.Resources.resources
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\obj\x86\Debug\Need for Graphics.csproj.GenerateResource.Cache
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\obj\x86\Debug\Labo0.exe
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\obj\x86\Debug\Labo0.pdb
+C:\Users\Kinacho\Desktop\Proy final\Need For Graphics\Labo0\obj\x86\Debug\NFS.MainWindow.resources
